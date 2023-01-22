@@ -35,17 +35,17 @@ There are solutions for every level in NandGame.com:
 ![image](https://user-images.githubusercontent.com/116679403/213937874-62558ee9-9fd9-4985-95eb-b9ce32501495.png)
 
 #1.5 Equal to Zero
-![image](https://user-images.githubusercontent.com/116679403/213937896-76db0639-a22c-4f62-91cc-a401163b0116.png)
+![image](https://user-images.githubusercontent.com/116679403/213938337-09f95ef6-fc12-402c-9895-e9d97af8ad98.png)
 
 #1.6 Less than Zero
-![image](https://user-images.githubusercontent.com/116679403/213937909-33d52a12-8f1a-4c4c-b8ab-aeba8461e5a2.png)
+![image](https://user-images.githubusercontent.com/116679403/213938348-0e28d0df-8582-4901-931a-27b6ca7179a1.png)
 
 # SWITCHING
 #2.0 Selector
-![image](https://user-images.githubusercontent.com/116679403/213937947-cdb792a0-fbba-4ed9-bf10-be235da8b04b.png)
+![image](https://user-images.githubusercontent.com/116679403/213938365-4a81a3f4-42ee-4f87-96ce-dafc1f6407cc.png)
 
 #2.1 Switch
-![image](https://user-images.githubusercontent.com/116679403/213937958-21634f4d-abb8-4391-841a-04076ec8d60e.png)
+![image](https://user-images.githubusercontent.com/116679403/213938381-689efb7d-c3ca-4285-b96d-95f9e043ce6c.png)
 
 # Arithmetic Logic Unit
 #3.0 Logic Unit
