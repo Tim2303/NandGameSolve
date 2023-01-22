@@ -4,10 +4,10 @@ There are solutions for every level in NandGame.com:
 
 # LOGIC GATES
 #0.0 Nand
-![image](https://user-images.githubusercontent.com/116679403/213937688-8a618467-135c-4fd1-a305-37ce39449746.png)
+![image](https://user-images.githubusercontent.com/116679403/213938059-9272a7c4-8cb1-4e23-b195-70167dba90fc.png)
 
 #0.1 Invert
-![image](https://user-images.githubusercontent.com/116679403/213937594-442c67a2-3e47-4924-9faa-564e3bed3d18.png)
+![image](https://user-images.githubusercontent.com/116679403/213938077-c42f4734-05af-4d99-8b0e-4e5f58a83048.png)
 
 #0.2 And
 ![image](https://user-images.githubusercontent.com/116679403/213937700-ddb518a5-ed71-4cdd-bcb0-0375ac4591ba.png)
