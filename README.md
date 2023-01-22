@@ -1,6 +1,6 @@
 # NandGameSolve
 
-There are solutions for every level in NandGmae.com:
+There are solutions for every level in NandGame.com:
 
 #0.0 Nand
 ![image](https://user-images.githubusercontent.com/116679403/213937688-8a618467-135c-4fd1-a305-37ce39449746.png)
