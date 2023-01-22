@@ -20,7 +20,7 @@ There are solutions for every level in NandGame.com:
 
 # ARITHMETICS
 #1.0 Half Adder
-![image](https://user-images.githubusercontent.com/116679403/213937802-07560be7-b6bd-4dbe-973d-a6e98fab5d4e.png)
+![image](https://user-images.githubusercontent.com/116679403/213938300-91778b65-89ca-4bf1-80e7-44f1abfa339d.png)
 
 #1.1 Full Adder
 ![image](https://user-images.githubusercontent.com/116679403/213937822-8cbad046-706e-4d5b-ac61-2ebcc46bc32a.png)
