@@ -10,13 +10,13 @@ There are solutions for every level in NandGame.com:
 ![image](https://user-images.githubusercontent.com/116679403/213938077-c42f4734-05af-4d99-8b0e-4e5f58a83048.png)
 
 #0.2 And
-![image](https://user-images.githubusercontent.com/116679403/213937700-ddb518a5-ed71-4cdd-bcb0-0375ac4591ba.png)
+![image](https://user-images.githubusercontent.com/116679403/213938213-7c69f80e-b0f9-4d9a-a3bf-3634279efa6a.png)
 
 #0.3 Or
-![image](https://user-images.githubusercontent.com/116679403/213937630-54c86474-6331-4231-8a0e-12231b835678.png)
+![image](https://user-images.githubusercontent.com/116679403/213938244-a6dfb690-4502-443e-aa57-6c2afa6e0082.png)
 
 #0.4 Xor
-![image](https://user-images.githubusercontent.com/116679403/213937639-df4e8a03-bef7-42c5-8e43-d349448efb0a.png)
+![image](https://user-images.githubusercontent.com/116679403/213938259-8a2b02c7-4440-497b-acce-a1fc98df15b2.png)
 
 # ARITHMETICS
 #1.0 Half Adder
