@@ -26,13 +26,13 @@ There are solutions for every level in NandGame.com:
 ![image](https://user-images.githubusercontent.com/116679403/213937822-8cbad046-706e-4d5b-ac61-2ebcc46bc32a.png)
 
 #1.2 Multi-bit Adder
-![image](https://user-images.githubusercontent.com/116679403/213937838-a824d2f1-6c81-4a68-8c71-28f931701c41.png)
+![image](https://user-images.githubusercontent.com/116679403/213938406-d30e15b9-fdc0-44a6-aaf6-37090a1d428e.png)
 
 #1.3 Increment
 ![image](https://user-images.githubusercontent.com/116679403/213937852-8fc2861d-546e-48cd-adfe-fbcda7db0f63.png)
 
 #1.4 Subtraction
-![image](https://user-images.githubusercontent.com/116679403/213937874-62558ee9-9fd9-4985-95eb-b9ce32501495.png)
+![image](https://user-images.githubusercontent.com/116679403/213938423-435c19a9-85c1-4116-803d-d5e38575c683.png)
 
 #1.5 Equal to Zero
 ![image](https://user-images.githubusercontent.com/116679403/213938337-09f95ef6-fc12-402c-9895-e9d97af8ad98.png)
