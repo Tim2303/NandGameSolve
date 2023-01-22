@@ -1,6 +1,6 @@
 # NandGameSolve
 
-There are solutions for every level in NandGame.com:
+Here are all optimal solutions for NandGame.com:
 
 # LOGIC GATES
 #0.0 Nand
