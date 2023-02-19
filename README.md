@@ -54,3 +54,5 @@ Here are all optimal solutions for NandGame.com:
 #3.1 Arithmetic Unit
 ![image](https://user-images.githubusercontent.com/116679403/219938522-3a0f402c-4890-4157-85b9-2314662d8505.png)
 
+# 3.2 ALU
+![image](https://user-images.githubusercontent.com/116679403/219939188-bf13ce77-702e-4d2d-ad82-cb2fa81c7e7a.png)
