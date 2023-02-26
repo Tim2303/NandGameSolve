@@ -59,3 +59,7 @@ Here are all optimal solutions for NandGame.com:
 
 #3.3 Condition
 ![image](https://user-images.githubusercontent.com/116679403/221421654-f96cbef9-d733-48f7-9c55-24f3a1c5b8b6.png)
+
+# Memory
+#4.0 Latch
+![image](https://user-images.githubusercontent.com/116679403/221421951-d94584dc-cdb1-4f91-a650-8cc75fb53570.png)
