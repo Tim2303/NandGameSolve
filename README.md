@@ -63,3 +63,7 @@ Here are all optimal solutions for NandGame.com:
 # Memory
 #4.0 Latch
 ![image](https://user-images.githubusercontent.com/116679403/221421951-d94584dc-cdb1-4f91-a650-8cc75fb53570.png)
+
+#4.1 Data Flip-Flop
+(!) Not the optimal 
+![image](https://user-images.githubusercontent.com/116679403/225127501-b7798592-7b2a-4232-b398-68d4dbe41dcc.png)
