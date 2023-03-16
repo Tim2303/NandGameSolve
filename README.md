@@ -45,7 +45,7 @@ Here are all optimal solutions for NandGame.com:
 ![image](https://user-images.githubusercontent.com/116679403/213938365-4a81a3f4-42ee-4f87-96ce-dafc1f6407cc.png)
 
 #2.1 Switch
-![image](https://user-images.githubusercontent.com/116679403/213938381-689efb7d-c3ca-4285-b96d-95f9e043ce6c.png)
+![image](https://user-images.githubusercontent.com/116679403/225684351-7b80a8a4-0f4d-4ad3-82c0-364d6f395a97.png)
 
 # ARITHMETIC LOGIC UNIT
 #3.0 Logic Unit
