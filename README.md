@@ -81,4 +81,8 @@ Here are all optimal solutions for [NandGame.com](https://nandgame.com):
 ![image](https://user-images.githubusercontent.com/116679403/227767584-4be21154-d2ce-4b53-9c5a-2c3c1285919b.png)
 
 #5.1 Instruction
-In progress...
+![image](https://user-images.githubusercontent.com/116679403/227768638-b35ecf35-613f-4f22-bd19-6205fc067dae.png)
+
+#5.2 Control Unit
+
+
