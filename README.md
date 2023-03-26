@@ -72,3 +72,9 @@ Here are all optimal solutions for NandGame.com:
 
 #4.3 Counter
 ![image](https://user-images.githubusercontent.com/116679403/227765969-62579fca-36e1-4a69-93a7-7e9033d5a48d.png)
+
+#4.4 RAM
+![image](https://user-images.githubusercontent.com/116679403/227767195-a2ad34ac-0e14-459e-a32c-d4a5bb334ac9.png)
+
+# Processor
+#5.0 Combined Memory
