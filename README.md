@@ -69,3 +69,6 @@ Here are all optimal solutions for NandGame.com:
 
 #4.2 Register
 ![image](https://user-images.githubusercontent.com/116679403/227765556-699483dd-c844-4661-8aee-eb57bf1c1bce.png)
+
+#4.3 Counter
+![image](https://user-images.githubusercontent.com/116679403/227765969-62579fca-36e1-4a69-93a7-7e9033d5a48d.png)
