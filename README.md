@@ -64,6 +64,8 @@ Here are all optimal solutions for NandGame.com:
 #4.0 Latch
 ![image](https://user-images.githubusercontent.com/116679403/221421951-d94584dc-cdb1-4f91-a650-8cc75fb53570.png)
 
-#4.1 Data Flip-Flop
-(!) Not the optimal 
+#4.1 Data Flip-Flop - (!) Not optimal 
 ![image](https://user-images.githubusercontent.com/116679403/225127501-b7798592-7b2a-4232-b398-68d4dbe41dcc.png)
+
+#4.2 Register
+![image](https://user-images.githubusercontent.com/116679403/227765556-699483dd-c844-4661-8aee-eb57bf1c1bce.png)
