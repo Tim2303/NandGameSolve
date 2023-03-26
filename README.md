@@ -78,3 +78,7 @@ Here are all optimal solutions for NandGame.com:
 
 # Processor
 #5.0 Combined Memory
+![image](https://user-images.githubusercontent.com/116679403/227767584-4be21154-d2ce-4b53-9c5a-2c3c1285919b.png)
+
+#5.1 Instruction
+In progress...
