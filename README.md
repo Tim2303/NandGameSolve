@@ -1,6 +1,6 @@
 # NandGameSolve
 
-Here are all optimal solutions for NandGame.com:
+Here are all optimal solutions for [NandGame.com](https://nandgame.com):
 
 # LOGIC GATES
 #0.0 Nand
